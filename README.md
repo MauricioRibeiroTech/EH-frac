@@ -1,6 +1,6 @@
 # EH-frac
 
-# Resilience and Optimal Power Flow in Multilayer Networks ⚡🧠
+# Resilience and Optimal Power Flow in Multilayer Networks ⚡
 ### Dynamics of Fractional Hysteretic Oscillators
 
 [![Julia](https://img.shields.io/badge/Language-Julia-9558B2.svg?style=flat-square&logo=julia)](https://julialang.org/)
