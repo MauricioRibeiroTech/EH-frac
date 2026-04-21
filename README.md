@@ -18,10 +18,4 @@ The framework is structured into two main pipelines:
     * `2_multicamada.jl`: Main script managing piezoelectric coupling ($\sigma_{inter}$) and calculating the Kuramoto Order Parameter ($R$).
 2.  **Analysis & Visualization (`Python`):** Optimized scripts for generating publication-quality figures (Nature Style).
     * `1_plotting.py`: Generates comparative dashboards for power and entropy.
-    * `2_bianconi.py`: Visualizes Bianconi Structural Entropy across different network sizes ($N$).
-
-## 📝 Citation
-
-If this framework assists in your research, please cite our work:
-
-> **Ribeiro, M. A.**, et al. (2026). *Resilience and Optimal Power Flow in Multilayer Networks of Fractional Hysteretic Oscillator*. **Nonlinear Dynamics**.
+    * `2_plot_entropy.py`: Visualizes Bianconi Structural Entropy across different network sizes ($N$).
