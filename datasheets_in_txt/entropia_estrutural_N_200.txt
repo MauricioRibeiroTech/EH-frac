@@ -1,0 +1,2 @@
+N	Bianconi_Mech	Bianconi_Elec
+200	9.702674918258861	9.063693796020573
