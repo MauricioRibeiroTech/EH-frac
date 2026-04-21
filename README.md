@@ -17,7 +17,7 @@ The framework is organized into two primary computational pipelines:
     * `2_multicamada.jl`: Core script managing inter-layer piezoelectric coupling ($\sigma_{inter}$) and calculating the Kuramoto Order Parameter ($R$).
 2.  **Analysis & Visualization (`Python`):** Scripts optimized for generating publication-quality figures following scientific standards (Nature-style aesthetics).
     * `1_plotting.py`: Processes simulation data to generate comparative dashboards for harvested power and entropy.
-    * `2_bianconi.py`: Computes and visualizes Bianconi Structural Entropy across varying network scales ($N$).
+    * `2_plot_entropy.py`: Computes and visualizes Bianconi Structural Entropy across varying network scales ($N$).
 
 ## 🧬 Key Features
 
